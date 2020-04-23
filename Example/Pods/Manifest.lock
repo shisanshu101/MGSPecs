@@ -1,0 +1,16 @@
+PODS:
+  - MGCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - MGCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  MGCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MGCategoryKit: 6200a16895a0baa27288ea91058f8e41c55b69a9
+
+PODFILE CHECKSUM: 27e9ce96daacf18033a5e4ec088e36a7db0cb3d6
+
+COCOAPODS: 1.8.4

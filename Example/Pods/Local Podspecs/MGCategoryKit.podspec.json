@@ -1,0 +1,22 @@
+{
+  "name": "MGCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of MGCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shisanshu101/MGCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shisanshu101": "18234053724@163.com"
+  },
+  "source": {
+    "git": "https://github.com/shisanshu101/MGCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MGCategoryKit/Classes/**/*"
+}
